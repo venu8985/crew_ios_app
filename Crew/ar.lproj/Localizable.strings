@@ -1,0 +1,618 @@
+/*
+  Localizable.strings
+  Crew
+
+  Created by Rajeev on 22/03/21.
+  
+*/
+
+
+//Common
+
+"SAR" = "ر.س";
+"jobs" = "المشاريع";
+"login alert" = "تسجيل الدخول";
+"Error" = "خطأ";
+
+"   Login Alert" = "تسجيل الدخول   ";
+"You have to login to access more features." = "يجب تسجيل الدخول للحصول على المزيد من الميزات.";
+"Please login to get more features" = "يُرجى تسجيل الدخول للحصول على المزيد من الميزات";
+"Login" = "تسجيل الدخول";
+
+//forgot password
+
+"Please enter your mobile number to recieve verification code" = "يُرجى إدخال رقم الجوال لإرسال رمز التحقق";
+"Mobile Verification" = "رمز التحقق";
+"Search country code" = "البحث";
+
+//resetpassword
+
+"Password" = "كلمة المرور";
+"Confirm Password" = "تأكيد كلمة المرور";
+"Save Profile" = "حفظ";
+"Please enter your password" = "يُرجى إدخال كلمة المرور";
+"Password should not be less than six characters" = "كلمة المرور يجب أن لا تقل عن 6 خانات";
+"Password and confirm password does not match" = "كلمة المرور غير متطابقة";
+"Password changed successfully" = "تم تغيير كلمة المرور بنجاح";
+"Update Password" = "تحديث كلمة المرور";
+
+//Tabbar items
+"Home" = "الرئيسية";
+"Categories" = "الفئات";
+"Search" = "البحث";
+"Projects" = "المشاريع";
+
+//home
+
+"Ongoing Projects" = "المشاريع الجارية";
+"View all projects " = "  عرض جميع المشاريع  ";
+"Featured Profiles" = "الحسابات المميزة";
+"View all profiles " = "  عرض جميع الحسابات  ";
+"Categories" = "الفئات";
+"View all categories " = "عرض جميع الفئات ";
+"Get Trusted Professionals" = "تعاقد مع محترفين";
+"Professional with highly experienced" = "موثوق بهم  ذوو خبرة عالية";
+
+//featured profiles
+"No profiles found" = "لا يوجد حسابات";
+
+//profile details
+"About" = "التعريف";
+"Achievement" = "الإنجازات";
+"Ratings" = "التقييمات";
+"Hire Now" = "طلب الخدمة";
+"Description" = "الوصف";
+"  Resume" = "  السيرة الذاتية";
+"No achievements found" = "لا يوجد إنجازات";
+"Speciality" = "التخصص";
+
+//profile filter
+" Sub Category" = " الفئات الفرعية";
+" Add " = " إضافة ";
+"Price" = "السعر";
+"Rating" = "التقييم";
+"Country" = "الدولة";
+"Apply" = "تطبيق";
+"Please select any category" = "يُرجى تحديد أي فئة";
+"Filter" = "تصفية النتائج";
+"Clear" = "مسح";
+" Remove" = " إزالة";
+"Change?" = "تعديل؟";
+" Add cities" = "إضافة مدينة ";
+
+//sub category vc
+"Search Sub-Category" = "البحث";
+"Sub-Category" = "الفئات الفرعية";
+
+//expire vc
+"Your account has been expired..!" = "انتهت صلاحية حسابك ..!";
+"Pay Now" = "دفع";
+"Couldn't intiate payment right now" = "فشل عملية الدفع";
+"Expired" = "منتهي";
+"Invalid transaction" = "العملية غير صحيحة";
+
+
+//provider milestones
+"Request for -" = "المدة (باليوم) -";
+"days" = "يوم";
+"Milestones" = "المراحل";
+"Milestone" = "المراحل";
+"Go to profile  " = "  الملف الشخصي";
+"Total Amount" = "المبلغ الإجمالي";
+"Total amount " = "المبلغ الإجمالي";
+"  View Contract" = "  مشاهدة العقد";
+"Pending Amount" = "المبلغ المعلق";
+"Payment Milestone" = "دفعات السداد";
+"  Status    " = "  الحالة    ";
+"Enter Amount" = "أدخل المبلغ";
+"Enter description" = "أدخل الوصف";
+"  Start Date  " = "تاريخ البدء";
+"Pay" = "دفع";
+"My Review" = "مراجعاتي";
+"Job Done" = "تم الإنجاز";
+"Paid" = "تم الدفع<";
+"Contract Accepted" = "تم قبول العقد";
+"Waiting for confirmation" = "في انتظار التأكيد";
+"I Paid" = "تم الدفع";
+
+//Favourties
+"Favourite Profiles" = "المفضلة";
+
+//Review VC :
+"Account verified" = "تم التحقق من الحساب";
+"Account Rejected" = "تم رفض الحساب";
+
+
+//Shooting plan:
+"Please add atleast one resource" = "يُرجى إضافة مورد واحد على الأقل";
+"Create plan" = "إنشاء خطة";
+"Please create the shooting plan" = "يُرجى إنشاء خطة";
+"No shooting plan created yet" = "لم يتم إنشاء أي خطة حتى الآن";
+"Shooting Plan" = "خطة التصوير";
+"Create New" = "عقد جديد";
+" Create New" = " عقد جديد ";
+"Resources" = "الموارد";
+"Shooting Date" = "تاريخ التصوير";
+"Location" = "العنوان";
+"Shooting plan successfully created" = "تم الإنشاء بنجاح";
+"Shooting plan successfully updated" = "تم التحديث بنجاح";
+
+//create shooting plan
+"Update shooting plan" = "تحديث الخطة";
+"Create shooting plan" = "إنشاء خطة";
+"Confirm" = "تأكيد";
+"Select resources" = "حدد الموارد";
+"Pending" = "قيد الانتظار";
+
+
+//send audition request
+"Send Audition Request" = "إرسال طلب تجربة أداء";
+"Audition Date" = "التاريخ";
+"Create Audition Request" = "Create Audition Request";
+"Your request has been sent to the resources" = "تم إرسال الطلب بنجاح.";
+"Back to home" = "العودة للرئيسية";
+
+//category vc
+"Categories" = "الفئات";
+
+//category profiles
+"Featured Profiles" = "الحسابات المميزة";
+"Send Request" = "إرسال";
+"Please select atleast one profile to proceed" = "يُرجى تحديد حساي واحد على الأقل للمتابعة";
+
+//search view controller
+" What are you looking for?" = " البحث";
+"Browse Categories" = "الفئات";
+
+//search profiles
+" What are you looking for?" = " البحث";
+"Category" = "الفئة";
+
+//notifications:
+"Notifications cleared successfully" = "تم حذف الإشعارات بنجاح";
+"Notifications" = "الإشعارات";
+"Clear all" = "مسح";
+
+//profile
+"Share App" = "مشاركة التطبيق";
+"Support" = "الدعم والمساعدة";
+"About us" = "عن التطبيق";
+"Saved" = "المفضلة";
+"Requests" = "الطلبات";
+"Saved Contracts" = "العقود المحفوظة";
+"Notifications" = "الإشعارات";
+"Change Password" = "تغيير كلمة المرور";
+"Change password" = "تغيير كلمة المرور";
+"Logout" = "تسجيل الخروج";
+" Login  " = " تسجيل الدخول  ";
+//"Go to profile  " = "الملف الشخصي  ";
+"Language" = "English";
+
+
+//change password
+"Confirm Password" = "تأكيد كلمة المرور";
+"New Password" = "كلمة المرور الجديدة";
+"Current Password" = "كلمة المرور الحالية";
+"Current password is required" = "كلمة المرور الحالية مطلوبة";
+"New password is required" = "كلمة المرور الجديدة مطلوبة";
+"Confirm password is required" = "تأكيد كلمة المرور مطلوب";
+"Password do not match" = "كلمة المرور غير متطابقة";
+"Password must be not less than 6 characters" = "كلمة المرور يجب أن لا تقل عن 6 خانات";
+"Password changed successfully" = "تم تغيير كلمة المرور بنجاح";
+"Change Password" = "تغيير كلمة المرور";
+
+
+
+//support
+"Submit" = "إرسال";
+"Your comment" = "ملاحظاتك";
+"Name" = "Name";
+"Mobile Number" = "رقم الجوال";
+"Email address" = "البريد الإلكتروني";
+"Name can not be empty" = "الإسم مطلوب";
+"Mobile Number can not be empty" = "رقم الجوال مطلوب";
+"Email address can not be empty" = "البريد الإلكتروني مطلوب";
+"Please enter valid email address" = "يُرجى إدخال عنوان بريد إلكتروني صحيح";
+"Your comment can not be empty" = "الملاحظة مطلوبة";
+"Request successfully submitted" = "تم الإرسال بنجاح";
+"Search country code" = "البحث";
+
+//view profile
+"View Proposal" = "مشاهدة العرض";
+"View proposal" = "مشاهدة العرض";
+"view Attachment" = "عرض المرفقات";
+"Registration Number" = "رقم السجل التجاري";
+"Edit Profile" = "تعديل البيانات";
+"Profile" = "حسابي";
+"View Contract" = "مشاهدة العقد";
+
+//edit profile
+"Delete Profile Image" = "حذف الصورة";
+"Mobile Number" = "رقم الجوال";
+"Full Name" = "الإسم";
+"Email address" = "البريد الإلكتروني";
+"Save Profile" = "حفظ";
+"Choose option to upload picture" = "حدد مصدر الصورة";
+"Uploading..." = "جارٍ التحميل ...";
+"Profile updated successfully" = "تم التحديث بنجاح";
+"Profile Picture could not upload, Please try again later" = "لم يتم تحميل الصورة، يُرجى المحاولة مرة أخرى";
+"Profile updated successfully" = "تم التحديث بنجاح";
+
+
+//login
+"Sign in with Password" = "تسجيل الدخول بكلمة المرور";
+"I accept the T&C and Privacy Policy of Crew" = "أوافق على شروط وأحكام وسياسة خصوصية التطبيق";
+" the T&C " = " الشروط والأحكام ";
+"Privacy Policy" = "سياسة الخصوصية";
+"Please enter valid mobile number" = "يُرجى إدخال رقم جوال صحيح";
+"Please enter password" = "يُرجى إدخال كلمة المرور";
+"Password must be minimum 6 characters" = "كلمة المرور يجب أن تتكون من 6 خانات على الأقل";
+"Please accept T&C and Privacy policy" = "يُرجى الموافقة على الشروط والأحكام وسياسة الخصوصية";
+"Invalid Mobile number or password" = "رقم الجوال أو  كلمة المرور غير صحيحة";
+"Sign in with SMS" = "تسجيل الدخول برمز التفعيل";
+"Sign in with Password" = "تسجيل الدخول بكلمة المرور";
+"Search country code" = "البحث";
+
+"I accept the" = " أوافق على";
+"T&C" = "شروط وأحكام";
+"and"= "و";
+"Privacy Policy" = "سياسة خصوصية";
+"of Crew" = "التطبيق";
+
+
+//legal vc
+"Privacy Policy" = "سياسة الخصوصية";
+"Terms of service" = "شروط الخدمة";
+
+//  otp vc:
+"Mobile Verification" = "رمز التحقق";
+"Invalid OTP" = "الرمز غير صحيح";
+
+//who are you
+"Who are you?" = "من أنت؟";
+"I am looking for a media agency" = "أنا أبحث عن وكالة إعلامية";
+"I am operating media agency" = "نحن وكالة إعلامية";
+
+//profile setup :
+"Add Profile Image" = "إضافة صورة";
+"Mobile Number" = "رقم الجوال";
+"All fields are mandatory" = "جميع الحقول مطلوبة";
+"Full Name" = "الإسم";
+"Email address" = "البريد الإلكتروني";
+"Password" = "كلمة المرور";
+"Confirm Password" = "تأكيد كلمة المرور";
+"Commercial Registration Number" = "رقم السجل التجاري";
+"You can upload JPEG,PNG and PDF files" = "يُمكنك تحميل ملفات بصيغة JPEG و PNG و PDF";
+"Signature here" = "أضف توقيعك هنا";
+"Save Profile" = "حفظ";
+"Choose option to upload picture" = "حدد مصدر الصورة";
+"Gallery" = "المعرض";
+"Camera" = "الكاميرا";
+"Uploading..." = "جارٍ التحميل ...";
+"Setup Your Profile" = "بيانات الحساب";
+"Please enter your full name" = "يُرجى إدخال الإسم";
+"Please enter your email address" = "يُرجى إدخال البريد الإلكتروني";
+"Please enter valid email address" = "يُرجى إدخال بريد إلكتروني صحيح";
+"Please enter your password" = "يُرجى إدخال كلمة المرور";
+"Password should not be less than six characters" = "كلمة المرور يجب أن تتكون من 6 خانات على الأقل";
+"Password and confirm password does not match" = "كلمة المرور غير متطابقة";
+"Please enter your CR Number" = "يُرجى إدخال رقم السجل التجاري";
+"Please attach CRN document" = "يُرجى إضافة مستند السجل التجاري";
+"Please update your signature" = "يُرجى تحديث توقيعك";
+
+
+//Agency payment:
+"Please Make the payment of " = "يُرجى دفع ";
+"to continue with application" = "للإستمرار في إستخدام التطبيق";
+"If you face any issue while making the payment kindly contact support at" = "إذا واجهت أي مشكلة في عملية الدفع ، يُرجى الإتصال بنا";
+"or write us at" = "أو عبر البريد";
+"or write us at" = "أو عبر البريد";
+"Pay Now" = "دفع";
+"Registration Payment" = "مبلغ الإشتراك";
+
+
+//payment status :
+"Success" = "نجاح";
+"Your payment has been processed..." = "تمت عملية الدفع ...";
+"Couldn't intiate payment right now" = "فشل عملية الدفع";
+
+//dates vc
+"Create Milestone" = "إضافة مرحلة";
+"Choose Project" = "اختر المشروع";
+"  Reserved" = "  محجوز";
+"Please select a valid date range to proceed" = "يُرجى تحديد نطاق زمني صحيح للمتابعة";
+"Select the dates" = "حدد التواريخ";
+"  Add more dates" = "  إضافة المزيد من التواريخ";
+"Select Dates" = "حدد التواريخ";
+"Start Date  "="تاريخ البدء  ";
+"End Date  " = "تاريخ الانتهاء  ";
+"Day" = "يوم";
+"Days" = "يوم";
+"Done" = "تأكيد";
+"Cancel" = "إلغاء";
+"Start Date  " = "تاريخ البدء  ";
+"End Date  " = "تاريخ الإنتهاء  ";
+"Payments" = "Payments";
+" Add " = " إضافة ";
+
+////requests view controller:
+"Awarded" = "تم الإختيار";
+"Project Name" = "إسم المشروع";
+"  Dates / Timeline " = "التاريخ / الجدول الزمني ";
+"Start  " = "البدء  ";
+"Stop  " = "الإنتهاء";
+"  Project Budget " = "  ميزانية المشروع ";
+
+//request details
+"Project Name" = "إسم المشروع";
+"Description" = "الوصف";
+"  Dates / Timeline " = "  التاريخ / الجدول الزمني ";
+"Start  " = "البدء  ";
+"Stop  " = "الإنتهاء  ";
+"  Project Budget " = "  ميزانية المشروع ";
+"   View Contract" = "   مشاهدة العقد";
+"Reject" = "رفض";
+"Send Proposal" = "إرسال";
+"Request is rejected" = "تم رفض الطلب";
+"Accept" = "قبول";
+//create proposal
+"Description" = "الوصف";
+"Registration attachment" = "مستند السجل التجاري";
+"You can upload JPEG, PNG and PDF files" = "يُمكنك تحميل ملفات بصيغة JPEG و PNG و PDF";
+"Send Proposal" = "إرسال";
+"Please enter valid description" = "يُرجى إدخال الوصف";
+"Please attach file to proceed" = "يُرجى إرفاق ملف للمتابعة";
+"Proposal created succesfully" = "تم إنشاء العرض بنجاح";
+"Choose option to upload attachment" = "اختر مصدر تحميل المرفق";
+"Gallery" = "المعرض";
+"Documents" = "المستندات";
+"Cancel" = "إلغاء";
+"Uploading..." = "جارٍ التحميل ...";
+
+
+//projects list
+"My projects" = "المشاريع";
+"Select the project" = "حدد المشروع";
+"  Create Project" = "  إنشاء مشروع";
+"Hire Resources" = " طلب موارد";
+" Hire Resources" = " طلب موارد";
+" Find Agencies" = " البحث عن وكالات";
+"Notify for Audition" = " طلب تجربة أداء";
+"Notify for audition" = " طلب تجربة أداء";
+" Shooting Plan" = "  خطة التصوير";
+"   Resources" = "   الموارد";
+"   Agencies" = "   الوكالات";
+" Notify for Audition" = " طلب تجربة أداء";
+"No projects found" = "لا يوجد مشاريع";
+"This action is not permissible for cancelled or completed projects" = "هذا الإجراء غير مسموح به للمشروع الملغي أو المكتمل";
+
+//create audition
+"Done" = "تأكيد";
+"Cancel" = "إلغاء";
+"Date is required" = "التاريخ مطلوب";
+"Address is required" = "العنوان مطلوب";
+"Accepted" = "مقبول";
+"Audition Requests" = "طلبات تجارب الأداء";
+
+//project details
+"Project Name" = "إسم المشروع";
+"Description" = "الوصف";
+"  Dates / Timeline " = "  التاريخ / الجدول الزمني ";
+"Start  " = "البدء  ";
+"Stop  " = "الإنتهاء  ";
+"Project Budget" = "ميزانية المشروع";
+"Requested to agencies" = "الطلبات المقدمة للوكالات";
+"Find Agencies" = "البحث عن وكالات";
+"You didn't requested any agencies" = "لم يتم التواصل مع وكالات";
+"Succesfully awarded" = "تم الإختيار بنجاح";
+
+//project details agency
+"Project Details" = "تفاصيل المشروع";
+"  Dates / Timeline " = "  التاريخ / الجدول الزمني ";
+"Start  " = "البدء  ";
+"Stop  " = "الإنتهاء  ";
+"  Project Budget " = "  ميزانية المشروع ";
+"Edit Project" = "تعديل المشروع";
+"Create Project" = "إنشاء مشروع";
+"Shooting Plan" = "  خطة التصوير";
+"Resources" = "الموارد";
+"  Audition Request" = " طلب تجربة أداء";
+"Hire Resources" = "طلب الخدمة";
+"Notify for audtion" = "طلب تجربة أداء";
+"Cancel Project" = "إلغاء المشروع";
+"Complete Project" = "إكمال المشروع";
+"Project succesfully completed" = "تم إكمال المشروع بنجاح";
+"Project cancelled" = "المشروع ملغي";
+"Search country" = "البحث";
+
+//proposal vc
+"Proposal" = "عرض السعر";
+"Succesfully awarded" = "تم الإختيار بنجاح";
+"View attachment" = "عرض المرفقات";
+"Description" = "الوصف";
+"Award" = "إختيار";
+
+"Create Milestones" = "إضافة مرحلة";
+
+//company create contract
+"Create contract" = "إنشاء العقد";
+" Create New" = " عقد جديد ";
+" From my saved contracts" = " من العقود المحفوظة ";
+"Contract Number" = "رقم العقد";
+"Contract Name" = "إسم العقد";
+"Start Date" = "تاريخ البدء";
+"End Date" = "تاريخ الإنتهاء";
+"Description" = "الوصف";
+"Enter Description" = "أدخل الوصف";
+"  Add my signature" = "  أضف توقيعي";
+"Please select valid contract number to proceed" = "يُرجى تحديد رقم عقد صحيح للمتابعة";
+"Please select valid contract name to proceed" = "يُرجى تحديد إسم عقد صحيح للمتابعة";
+"Please select valid start date to proceed" = "يُرجى تحديد تاريخ بدء صحيح للمتابعة";
+"Please select valid end date to proceed" = "يُرجى تحديد تاريخ إنتهاء صحيح للمتابعة";
+"Please select valid location to proceed" = "يُرجى تحديد موقع صحيح للمتابعة";
+"Contract succesfully created." = "تم إنشاء العقد بنجاح.";
+"Enter Description" = "أدخل الوصف";
+"Submit Request" = "تقديم الطلب";
+
+//agencies vc
+"Send Request" = "إرسال";
+"Please Select any one agency to proceed" = "يُرجى تحديد وكالة واحدة للمتابعة";
+"Agencies" = "الوكالات";
+"Please select valid contract name to proceed" = "يُرجى تحديد إسم عقد صحيح للمتابعة";
+"Please select valid contract number to proceed" = "يُرجى تحديد رقم عقد صحيح للمتابعة";
+"Please select valid start date to proceed" = "يُرجى تحديد تاريخ بدء صحيح للمتابعة";
+"Please select valid end date to proceed" = "يُرجى تحديد تاريخ إنتهاء صحيح للمتابعة";
+"Please select valid location to proceed" = "يُرجى تحديد موقع صحيح للمتابعة";
+"Selected Dates" = "التواريخ المحددة";
+"Day" = "يوم";
+"Days" = "يوم";
+"Enter Description" = "أدخل الوصف";
+" Your request number for further discussion" = " رقم الطلب";
+"My Contracts" = "العقود";
+
+
+//create project
+"About Project" = "عن المشروع";
+"Project Name" = "إسم المشروع";
+"Description" = "الوصف";
+"  Description" = "الوصف";
+"Project Timeline" = "الجدول الزمني للمشروع";
+
+//create project
+"Budget" = "الميزانية";
+"Location" = "العنوان";
+"City" = "المدينة";
+"Update Project" = "تحديث المشروع";
+"Save Project" = "حفظ";
+"Create new milestone" = "إنشاء مرحلة جديد";
+"Please create atleast 1 milestone" = "يُرجى إنشاء مرحلة واحدة على الأقل";
+"Edit" = "تعديل";
+"Milestone Name" = "إسم المرحلة";
+"Enter Amount" = "أدخل المبلغ";
+//"Description" = "Enter description";
+//"Start Date" = "Start Date";
+"  Start Date  " = "  حدد التاريخ  ";
+"Enter description" = "أدخل الوصف";
+"Total invidual milestones amount must be less than total milestone amount" = "يجب أن يكون مجموع مبلغ المراحل أقل من إجمالي مبلغ المراحل";
+"Date can not be empty" = "التاريخ مطلوب";
+"Description can not be empty" = "الوصف مطلوب";
+"Amount can not be empty" = "المبلغ مطلوب";
+"Name can not be empty" = "الإسم مطلوب";
+"Create Milestone" = "إضافة مرحلة";
+"Update Milestone" = "تحديث المرحلة";
+
+
+//Banner:
+"Success" = "نجاح";
+"Error" = "خطأ";
+
+//webservices
+"Deleting..." = "جارِ الحذف ...";
+
+
+//Project status
+"Rejected" = "مرفوض";
+"Ongoing" = " قيد التنفيذ";
+"Completed" = "مكتمل";
+"Cancelled" = "ملغي";
+"Proposal Generated" = "تم إنشاء العرض";
+
+//custom classes
+"Project Name" = "إسم المشروع";
+"  Dates / Timeline " = "  التاريخ / الجدول الزمني ";
+"Start   " = "البدء     ";
+"Stop    " = "الإنتهاء  ";
+"Budget  " = "الميزانية   ";
+"Cost       " = "التكلفة     ";
+"  Project Budget " = "  ميزانية المشروع ";
+
+//review popup
+"Submit your feedback" = "أرسل مراجعتك";
+"Submit review" = "إرسال";
+"Your comment" = "ملاحظاتك";
+"Please give rating" = "يُرجى إضافة التقييم";
+"Please give comment" = "يُرجى كتابة ملاحظاتك";
+
+"No reviews found" = "لا يوجد تعليقات";
+"Resource" = "الموارد";
+" Add Resource" = "إضافة موارد";
+"Date" = "التاريخ";
+"Name" = "الإسم";
+"Address" = "العنوان";
+"Search for location" = "البحث";
+"Save" = "حفظ";
+"Complete Address" = "العنوان";
+
+"No notifications found" = "لا يوجد إشعارات";
+"Are you sure want to clear notifications" = "هل أنت متأكد من حذف جميع الإشعارات؟";
+"No contracts found" = "لا توجد عقود";
+
+//Create project
+"Project Successfully created" = "تم إنشاء المشروع بنجاح";
+"Please select country to proceed" = "يُرجى تحديد الدولة للمتابعة";
+"Search city" = "البحث عن مدينة";
+"Please enter valid name" = "يُرجى إدخال الإسم";
+"Please enter valid budget" = "يُرجى إدخال ميزانية المشروع";
+"Please select valid city Name" = "يُرجى تحديد المدينة";
+"Project Successfully updated" = "تم تحديث المشروع بنجاح";
+"Project Successfully created" = "تم إنشاء المشروع بنجاح";
+
+
+//Calendar VC
+"Please enter valid future date" = "يُرجى إدخال تاريخ إنتهاء صحيح";
+
+//Requests
+"Contract is rejected" = "تم رفض العقد";
+"Contract is accepted" = "تم قبول العقد";
+"Request is rejected" = "تم رفض الطلب";
+"Contract is rejected" = "تم رفض العقد";
+
+//Milestones
+"Enter valid amount" = "يُرجى إدخال المبلغ";
+
+"No Resources Hired" = "لم يتم توظيف أي مورد";
+
+//Update
+"Update Required" = "النسخة الجديدة متاحة الان";
+"Update" = "تحديث";
+"The app outdated. Please update it to the latest version." = "يوجد نسخة جديدة للتطبيق يمكنك تحميلها الان . الرجاء تحديث النسخة عن طريق متجر ابل";
+"Launched New Features" = "تم إطلاق النسخة الجديدة";
+"Please update the surveillant" = "قم بالتحديث الآن";
+"what's new in v" = "الميزات في النسخة ";
+
+
+"Nationality" = "الجنسية";
+"ID Number" = "رقم الهوية";
+
+"ID Card Photo" = "صورة الهوية";
+"File" = "الملفات";
+"There is a fee of %@ SAR applicable for creating a proposal, please make sure that your wallet has sufficient balance to deduct proposal fee.\n\nIn case, you don’t have wallet balance please pay from your card." = "هناك رسوم قدرها %@ ر.س مطبقة لإنشاء عرض، يُرجى التأكد من أن محفظتك بها رصيد كافٍ لخصم رسوم العرض.في حالة عدم وجود رصيد في محفظتك، يرجى الدفع من بطاقتك.";
+"Complete your purchase" = "اكمال الدفع";
+"Enter the amount want to pay (in SAR)" = "ادخل المبلغ (ر.س)";
+"Balance Available" = "الرصيد المتاح";
+"Payment History" = "سجل الدفع";
+"Current Wallet Balance" = "رصيد المحفظة";
+"Add Balance" = "إضافة رصيد";
+"Continue to Pay" = "الاكمال للدفع";
+"CANCEL" = "إلغاء";
+"PAY" = "دفع";
+"(incl. VAT)" = "(شاملة ضريبة القيمة المضافة)";
+"PAY NOW" = "دفع الان";
+"Premium Membership" = "العضوية المميزة";
+"Only in" = "فقط بمبلغ";
+"DAYS LEFT" = "يوم متبقي";
+"in expiration" = "لانتهاء اشتراك";
+"of Free Subscription" = "الباقة المجانية";
+"of Subscription" = "الباقة المجانية";
+"Valid Until" = "متاح إلى تاريخ";
+"UPGRADE PLAN" = "ترقية الخطة";
+"No Thanks, I'm okay with Free Account" = "الاكمال في الباقة المجانية";
+"Pay For Proposal" = "الدفع لإنشاء عرض";
+"Refunded to wallet" = "اعادة إلى المحفظة";
+"Wallet" = "المحفظة";
+"Used for Proposal" = "استخدام للعرض";
+"Deposit to wallet" = "إيداع في المحفظة";
+"Please enter the valid amount" = "يُرجى ادخال مبلغ صحيح";
+
+"Sorry!" = "عذراً!";
+"You are not permitted to perform this as your application is under review." = "لا يُمكنك تنفيذ هذا الاجراء لأن طلبك قيد المراجعة.";

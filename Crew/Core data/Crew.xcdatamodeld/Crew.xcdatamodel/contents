@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21754" systemVersion="22G91" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ProfileDetails" representedClassName="ProfileDetails" syncable="YES" codeGenerationType="class">
+        <attribute name="activate_trial" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="city_id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="city_name" optional="YES" attributeType="String"/>
+        <attribute name="country_id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="country_name" optional="YES" attributeType="String"/>
+        <attribute name="cr_file" optional="YES" attributeType="String"/>
+        <attribute name="cr_number" optional="YES" attributeType="String"/>
+        <attribute name="created_at" optional="YES" attributeType="String"/>
+        <attribute name="dial_code" optional="YES" attributeType="String"/>
+        <attribute name="email" optional="YES" attributeType="String"/>
+        <attribute name="expired_at" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="id_card" optional="YES" attributeType="String"/>
+        <attribute name="id_card_image" optional="YES" attributeType="String"/>
+        <attribute name="is_agency" optional="YES" attributeType="String"/>
+        <attribute name="is_company" optional="YES" attributeType="String"/>
+        <attribute name="is_returner" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="job_cancelled" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="job_completed" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="job_received" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="job_rewarded" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="mobile" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="nationality_id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="nationality_name" optional="YES" attributeType="String"/>
+        <attribute name="payment_status" optional="YES" attributeType="String"/>
+        <attribute name="profile_image" optional="YES" attributeType="String"/>
+        <attribute name="profile_status" optional="YES" attributeType="String"/>
+        <attribute name="registration_fees" optional="YES" attributeType="String"/>
+        <attribute name="signature_file" optional="YES" attributeType="String"/>
+        <attribute name="wallet_amount" optional="YES" attributeType="String"/>
+    </entity>
+</model>

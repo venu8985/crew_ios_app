@@ -1,0 +1,6 @@
+framework module Pods_Crew {
+  umbrella header "Pods-Crew-umbrella.h"
+
+  export *
+  module * { export * }
+}

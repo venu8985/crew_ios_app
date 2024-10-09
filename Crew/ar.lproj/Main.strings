@@ -1,0 +1,187 @@
+
+/* Class = "UILabel"; text = "Enter 4 digit OTP sent to"; ObjectID = "0z5-77-3xM"; */
+"0z5-77-3xM.text" = "أدخل رمز التفعيل المُرسل لجوالك";
+
+/* Class = "UILabel"; text = "Signature Here"; ObjectID = "3ZH-Tf-7Ag"; */
+"3ZH-Tf-7Ag.text" = "أضف توقيعك هنا";
+
+/* Class = "UILabel"; text = "01:00"; ObjectID = "3u1-3D-HEf"; */
+"3u1-3D-HEf.text" = "01:00";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "4Di-0o-3t1"; */
+"4Di-0o-3t1.normalTitle" = "إغلاق";
+
+/* Class = "UILabel"; text = "Find & Hire Expert Freelancers"; ObjectID = "6o3-vS-wA5"; */
+"6o3-vS-wA5.text" = "البحث عن الخبراء المستقلين وتوظيفهم";
+
+/* Class = "UIButton"; normalTitle = "X  Skip"; ObjectID = "6tB-nH-vGV"; */
+"6tB-nH-vGV.normalTitle" = "X  تخطي";
+
+/* Class = "UILabel"; text = "+966 - 996891234"; ObjectID = "8To-xr-91d"; */
+"8To-xr-91d.text" = "+966 - 996891234";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "9OX-hC-Oey"; */
+"9OX-hC-Oey.title" = "البحث";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "Avt-bR-khz"; */
+"Avt-bR-khz.title" = "الرئيسية";
+
+/* Class = "UILabel"; text = "Your request has been shared with resource"; ObjectID = "Gdc-xF-j43"; */
+"Gdc-xF-j43.text" = "تم إرسال الطلب بنجاح.";
+
+/* Class = "UILabel"; text = "I accept the T&C and Privacy Policy of Crew"; ObjectID = "Rbv-nU-0z9"; */
+"Rbv-nU-0z9.text" = "أوافق على شروط وأحكام وسياسة خصوصية التطبيق";
+
+/* Class = "UIButton"; normalTitle = "+966   "; ObjectID = "Rr8-sX-TgX"; */
+"Rr8-sX-TgX.normalTitle" = "+966   ";
+
+/* Class = "UIButton"; normalTitle = "+966   "; ObjectID = "UwX-pC-ipo"; */
+"UwX-pC-ipo.normalTitle" = "+966   ";
+
+/* Class = "UINavigationItem"; title = "asdf"; ObjectID = "Vvz-5Y-R7P"; */
+"Vvz-5Y-R7P.title" = "asdf";
+
+/* Class = "UIButton"; normalTitle = "Back to home"; ObjectID = "YZR-Bs-gNX"; */
+"YZR-Bs-gNX.normalTitle" = "العودة للرئيسية";
+
+/* Class = "UIButton"; normalTitle = "Resend a New code"; ObjectID = "a45-rS-CsI"; */
+"a45-rS-CsI.normalTitle" = "إعادة الإرسال";
+
+/* Class = "UIButton"; normalTitle = "Forgot password"; ObjectID = "adR-Kq-NkP"; */
+"adR-Kq-NkP.normalTitle" = "نسيت كلمة المرور؟";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "c55-4l-hOO"; */
+"c55-4l-hOO.normalTitle" = "إرسال";
+
+/* Class = "UITabBarItem"; title = "Category"; ObjectID = "dDR-c8-kFV"; */
+"dDR-c8-kFV.title" = "الفئات";
+
+/* Class = "UIButton"; normalTitle = "Sign in with password"; ObjectID = "duc-KM-AOc"; */
+"duc-KM-AOc.normalTitle" = "تسجيل الدخول بكلمة المرور";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "eTK-Y7-Kby"; */
+"eTK-Y7-Kby.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "Please wait for resource to accept your request then after dates will be available, you will be notify when resource take any action to your request, Meanwhile you can keep browsing the application for the requirements. You can also track the status of your other requests. "; ObjectID = "fl7-Rc-WOD"; */
+"fl7-Rc-WOD.text" = "يُرجى الانتظار حتى يقبل المورد طلبك ، سيتم إعلامك عندما يتخذ المورد أي إجراء بشأن طلبك ، وفي نفس الوقت يُمكنك الاستمرار في تصفح التطبيق للحصول على موارد أخرى. يُمكنك أيضاً تتبع حالة طلباتك الأخرى.";
+
+/* Class = "UILabel"; text = "Thank you for your information"; ObjectID = "kXa-ZJ-6R3"; */
+"kXa-ZJ-6R3.text" = "شكراً لك";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "kp7-U9-NQW"; */
+"kp7-U9-NQW.normalTitle" = "رجوع";
+
+/* Class = "UILabel"; text = "Didn't received any code?"; ObjectID = "lZ0-Kq-0cC"; */
+"lZ0-Kq-0cC.text" = "لم يصلك؟";
+
+/* Class = "UITabBarItem"; title = "Projects"; ObjectID = "lyC-gX-7HM"; */
+"lyC-gX-7HM.title" = "المشاريع";
+
+/* Class = "UILabel"; text = "Your request number for further discussion #"; ObjectID = "mNV-nM-lmh"; */
+"mNV-nM-lmh.text" = "Your request number for further discussion #";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "nsp-yE-Chg"; */
+"nsp-yE-Chg.normalTitle" = "إرسال";
+
+/* Class = "UIButton"; normalTitle = "العربية"; ObjectID = "nuo-9s-fYI"; */
+"nuo-9s-fYI.normalTitle" = "العربية";
+
+/* Class = "UILabel"; text = "Application Submitted"; ObjectID = "pBM-1R-XwA"; */
+"pBM-1R-XwA.text" = "تم تقديم الطلب";
+
+/* Class = "UISearchBar"; placeholder = "Search for profiles, Category, name"; ObjectID = "rNI-sA-Fuc"; */
+"rNI-sA-Fuc.placeholder" = "البحث";
+
+/* Class = "UIButton"; normalTitle = "Sign in/Sign Up"; ObjectID = "rSv-mz-rz0"; */
+"rSv-mz-rz0.normalTitle" = "تسجيل الدخول / التسجيل";
+
+/* Class = "UILabel"; text = "Your application is under review, We will inform you once it is approved"; ObjectID = "rdj-e4-kom"; */
+"rdj-e4-kom.text" = "طلبك قيد المراجعة ، سيتم إخطارك عند الموافقة";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "tNM-mm-pRU"; */
+"tNM-mm-pRU.placeholder" = "رقم الجوال";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "ude-zT-btK"; */
+"ude-zT-btK.placeholder" = "رقم الجوال";
+
+/* Class = "UILabel"; text = "Your request has been sent to the resources"; ObjectID = "umO-hp-EJV"; */
+"umO-hp-EJV.text" = "تم إرسال الطلب بنجاح.";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "vOe-Nc-pwp"; */
+"vOe-Nc-pwp.normalTitle" = "مسح";
+
+/* Class = "UIButton"; normalTitle = "Back to home"; ObjectID = "xE1-WY-fH5"; */
+"xE1-WY-fH5.normalTitle" = "العودة للرئيسية";
+
+/* Class = "UITabBarItem"; title = "profile"; ObjectID = "zV9-KM-TkB"; */
+"zV9-KM-TkB.title" = "حسابي";
+
+/* Class = "UIButton"; normalTitle = "Add Balance"; ObjectID = "6He-R8-dPV"; */
+"6He-R8-dPV.normalTitle" = "إضافة رصيد";
+
+/* Class = "UIButton"; normalTitle = "PAY NOW"; ObjectID = "UIM-1H-sHl"; */
+"UIM-1H-sHl.normalTitle" = "دفع الان";
+
+/* Class = "UIButton"; normalTitle = "Continue to Pay"; ObjectID = "SmX-Or-Xtr"; */
+"SmX-Or-Xtr.normalTitle" = "الاكمال للدفع";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "oso-B5-EdB"; */
+"oso-B5-EdB.normalTitle" = "إلغاء";
+
+
+/* Class = "UILabel"; text = "Complete your purchase"; ObjectID = "XEx-h0-EZm"; */
+"XEx-h0-EZm.text" = "اكمال الدفع";
+
+/* Class = "UILabel"; text = "Complete your purchase"; ObjectID = "7Fr-NI-ALJ"; */
+"7Fr-NI-ALJ.text" = "اكمال الدفع";
+
+/* Class = "UILabel"; text = "Enter the amount want to pay (in SAR)"; ObjectID = "F8b-85-62W"; */
+"F8b-85-62W.text" = "ادخل المبلغ (ر.س)";
+
+/* Class = "UILabel"; text = "Payment History"; ObjectID = "9Ls-AF-fZe"; */
+"9Ls-AF-fZe.text" = "سجل الدفع";
+
+/* Class = "UILabel"; text = "Balance Available"; ObjectID = "Lxy-PY-Zns"; */
+"Lxy-PY-Zns.text" = "الرصيد المتاح";
+
+/* Class = "UILabel"; text = "Current Wallet Balance"; ObjectID = "mhv-kv-9ir"; */
+"mhv-kv-9ir.text" =  "رصيد المحفظة";
+
+/* Class = "UILabel"; text = "PAY"; ObjectID = "SJ2-dE-QQE"; */
+"SJ2-dE-QQE.text" = "دفع";
+
+/* Class = "UILabel"; text = "(incl. VAT)"; ObjectID = "DeG-zt-zw5"; */
+"DeG-zt-zw5.text" = "(شاملة ضريبة القيمة المضافة)";
+
+/* Class = "UILabel"; text = "Premium Membership"; ObjectID = "fju-fP-bTH"; */
+"fju-fP-bTH.text" = "العضوية المميزة";
+
+/* Class = "UILabel"; text = "Only in"; ObjectID = "Yww-Gh-4Ou"; */
+"Yww-Gh-4Ou.text" = "فقط بمبلغ";
+
+/* Class = "UILabel"; text = "DAYS LEFT"; ObjectID = "emm-hP-fBb"; */
+"emm-hP-fBb.text" = "يوم متبقي";
+
+/* Class = "UILabel"; text = "in expiration"; ObjectID = "kUs-NG-P4S"; */
+"kUs-NG-P4S.text" = "لانتهاء اشتراك";
+
+/* Class = "UILabel"; text = "of Free Subscription"; ObjectID = "OGP-rY-1L6"; */
+"OGP-rY-1L6.text" = "الباقة المجانية";
+
+/* Class = "UILabel"; text = "Valid Until"; ObjectID = "wfB-9q-lcy"; */
+"wfB-9q-lcy.text" = "متاح إلى تاريخ";
+
+/* Class = "UIButton"; normalTitle = "UPGRADE PLAN"; ObjectID = "qBP-4R-QkY"; */
+"qBP-4R-QkY.normalTitle" = "ترقية الخطة";
+
+/* Class = "UIButton"; normalTitle = "No Thanks, I'm okay with Free Account"; ObjectID = "7jE-C2-MjF"; */
+"7jE-C2-MjF.normalTitle" = "الاكمال في الباقة المجانية";
+
+/* Class = "UIButton"; normalTitle = "PAY NOW"; ObjectID = "nYy-xU-Zvy"; */
+"nYy-xU-Zvy.normalTitle" = "دفع الان";
+
+/* Class = "UILabel"; text = "Sorry!"; ObjectID = "fgJ-GH-HJm"; */
+"fgJ-GH-HJm.text" = "عذراً!";
+
+/* Class = "UILabel"; text = "You are not permitted to perform this as your application is under review."; ObjectID = "hmL-aL-esN"; */
+"hmL-aL-esN.text" = "لا يُمكنك تنفيذ هذا الاجراء لأن طلبك قيد المراجعة.";

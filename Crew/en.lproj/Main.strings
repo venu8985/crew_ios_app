@@ -1,0 +1,117 @@
+
+/* Class = "UILabel"; text = "Enter 4 digit OTP sent to"; ObjectID = "0z5-77-3xM"; */
+"0z5-77-3xM.text" = "Enter 4 digit OTP sent to";
+
+/* Class = "UILabel"; text = "Signature Here"; ObjectID = "3ZH-Tf-7Ag"; */
+"3ZH-Tf-7Ag.text" = "Signature Here";
+
+/* Class = "UILabel"; text = "01:00"; ObjectID = "3u1-3D-HEf"; */
+"3u1-3D-HEf.text" = "01:00";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "4Di-0o-3t1"; */
+"4Di-0o-3t1.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "Find & Hire Expert Freelancers"; ObjectID = "6o3-vS-wA5"; */
+"6o3-vS-wA5.text" = "Find & Hire Expert Freelancers";
+
+/* Class = "UIButton"; normalTitle = "X  Skip"; ObjectID = "6tB-nH-vGV"; */
+"6tB-nH-vGV.normalTitle" = "X  Skip";
+
+/* Class = "UILabel"; text = "+966 - 996891234"; ObjectID = "8To-xr-91d"; */
+"8To-xr-91d.text" = "+966 - 996891234";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "9OX-hC-Oey"; */
+"9OX-hC-Oey.title" = "Search";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "Avt-bR-khz"; */
+"Avt-bR-khz.title" = "Home";
+
+/* Class = "UILabel"; text = "Your request has been shared with resource"; ObjectID = "Gdc-xF-j43"; */
+"Gdc-xF-j43.text" = "Your request has been shared with resource";
+
+/* Class = "UILabel"; text = "I accept the T&C and Privacy Policy of Crew"; ObjectID = "Rbv-nU-0z9"; */
+"Rbv-nU-0z9.text" = "I accept the T&C and Privacy Policy of Crew";
+
+/* Class = "UIButton"; normalTitle = "+966   "; ObjectID = "Rr8-sX-TgX"; */
+"Rr8-sX-TgX.normalTitle" = "+966   ";
+
+/* Class = "UIButton"; normalTitle = "+966   "; ObjectID = "UwX-pC-ipo"; */
+"UwX-pC-ipo.normalTitle" = "+966   ";
+
+/* Class = "UINavigationItem"; title = "asdf"; ObjectID = "Vvz-5Y-R7P"; */
+"Vvz-5Y-R7P.title" = "asdf";
+
+/* Class = "UIButton"; normalTitle = "Back to home"; ObjectID = "YZR-Bs-gNX"; */
+"YZR-Bs-gNX.normalTitle" = "Back to home";
+
+/* Class = "UIButton"; normalTitle = "Resend a New code"; ObjectID = "a45-rS-CsI"; */
+"a45-rS-CsI.normalTitle" = "Resend a New code";
+
+/* Class = "UIButton"; normalTitle = "Forgot password"; ObjectID = "adR-Kq-NkP"; */
+"adR-Kq-NkP.normalTitle" = "Forgot password";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "c55-4l-hOO"; */
+"c55-4l-hOO.normalTitle" = "Submit";
+
+/* Class = "UITabBarItem"; title = "Category"; ObjectID = "dDR-c8-kFV"; */
+"dDR-c8-kFV.title" = "Category";
+
+/* Class = "UIButton"; normalTitle = "Sign in with password"; ObjectID = "duc-KM-AOc"; */
+"duc-KM-AOc.normalTitle" = "Sign in with password";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "eTK-Y7-Kby"; */
+"eTK-Y7-Kby.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Please wait for resource to accept your request then after dates will be available, you will be notify when resource take any action to your request, Meanwhile you can keep browsing the application for the requirements. You can also track the status of your other requests. "; ObjectID = "fl7-Rc-WOD"; */
+"fl7-Rc-WOD.text" = "Please wait for resource to accept your request then after dates will be available, you will be notify when resource take any action to your request, Meanwhile you can keep browsing the application for the requirements. You can also track the status of your other requests. ";
+
+/* Class = "UILabel"; text = "Thank you for your information"; ObjectID = "kXa-ZJ-6R3"; */
+"kXa-ZJ-6R3.text" = "Thank you for your information";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "kp7-U9-NQW"; */
+"kp7-U9-NQW.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Didn't received any code?"; ObjectID = "lZ0-Kq-0cC"; */
+"lZ0-Kq-0cC.text" = "Didn't received any code?";
+
+/* Class = "UITabBarItem"; title = "Projects"; ObjectID = "lyC-gX-7HM"; */
+"lyC-gX-7HM.title" = "Projects";
+
+/* Class = "UILabel"; text = "Your request number for further discussion #"; ObjectID = "mNV-nM-lmh"; */
+"mNV-nM-lmh.text" = "Your request number for further discussion #";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "nsp-yE-Chg"; */
+"nsp-yE-Chg.normalTitle" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "العربية"; ObjectID = "nuo-9s-fYI"; */
+"nuo-9s-fYI.normalTitle" = "العربية";
+
+/* Class = "UILabel"; text = "Application Submitted"; ObjectID = "pBM-1R-XwA"; */
+"pBM-1R-XwA.text" = "Application Submitted";
+
+/* Class = "UISearchBar"; placeholder = "Search for profiles, Category, name"; ObjectID = "rNI-sA-Fuc"; */
+"rNI-sA-Fuc.placeholder" = "Search for profiles, Category, name";
+
+/* Class = "UIButton"; normalTitle = "Sign in/Sign Up"; ObjectID = "rSv-mz-rz0"; */
+"rSv-mz-rz0.normalTitle" = "Sign in/Sign Up";
+
+/* Class = "UILabel"; text = "Your application is under review, We will inform you once it is approved"; ObjectID = "rdj-e4-kom"; */
+"rdj-e4-kom.text" = "Your application is under review, We will inform you once it is approved";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "tNM-mm-pRU"; */
+"tNM-mm-pRU.placeholder" = "Mobile Number";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "ude-zT-btK"; */
+"ude-zT-btK.placeholder" = "Mobile Number";
+
+/* Class = "UILabel"; text = "Your request has been sent to the resources"; ObjectID = "umO-hp-EJV"; */
+"umO-hp-EJV.text" = "Your request has been sent to the resources";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "vOe-Nc-pwp"; */
+"vOe-Nc-pwp.normalTitle" = "Clear";
+
+/* Class = "UIButton"; normalTitle = "Back to home"; ObjectID = "xE1-WY-fH5"; */
+"xE1-WY-fH5.normalTitle" = "Back to home";
+
+/* Class = "UITabBarItem"; title = "profile"; ObjectID = "zV9-KM-TkB"; */
+"zV9-KM-TkB.title" = "profile";

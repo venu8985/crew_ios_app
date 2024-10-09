@@ -1,0 +1,502 @@
+///*
+//  Localizable.strings
+//  Crew
+//
+//  Created by Rajeev on 22/03/21.
+//
+//*/
+//
+//
+////Common
+//
+//"SAR" = "SAR";
+//"jobs" = "jobs";
+//"login alert" = "login alert";
+//"Error" = "Error";
+//
+//"   Login Alert" = "   Login Alert";
+//"You have to login to access more features." = "You have to login to access more features.";
+//"Please login to get more features" = "Please login to get more features";
+//"Login" = "Login";
+//
+////forgot password
+//
+//"Please enter your mobile number to recieve verification code" = "Please enter your mobile number to recieve verification code";
+//"Mobile Verification" = "Mobile Verification";
+//"Search country code" = "Search country code";
+//
+////resetpassword
+//
+//"Password" = "Password";
+//"Confirm Password" = "Confirm Password";
+//"Save Profile" = "Save Profile";
+//"Please enter your password" = "Please enter your password";
+//"Password should not be less than six characters" = "Password should not be less than six characters";
+//"Password and confirm password does not match" = "Password and confirm password does not match";
+//"Password changed successfully" = "Password changed successfully";
+//"Update Password" = "Update Password";
+//
+////home
+//"Ongoing Projects" = "Ongoing Projects";
+//"View all projects " = "View all projects ";
+//"Featured Profiles" = "Featured Profiles";
+//"View all profiles " = "View all profiles ";
+//"Categories" = "Categories";
+//"View all categories " = "View all categories ";
+//"Get Trusted Professionals" = "Get Trusted Professionals";
+//"Professional with highly experienced" = "Professional with highly experienced";
+//
+////featured profiles
+//"No profiles found" = "No profiles found";
+//
+////profile details
+//"About" = "About";
+//"Achievement" = "Achievement";
+//"Ratings" = "Ratings";
+//"Hire Now" = "Hire Now";
+//"Description" = "Description";
+//"  Resume" = "  Resume";
+//"No achievements found" = "No achievements found";
+//"Achievement" = "Achievement";
+//"   Speciality" = "   Speciality";
+//
+////profile filter
+//" Sub Category" = " Sub Category";
+//" Add " = " Add ";
+//"Price" = "Price";
+//"Rating" = "Rating";
+//"Country" = "Country";
+//"Apply" = "Apply";
+//"Please select any category" = "Please select any category";
+//"Filter" = "Filter";
+//"Clear" = "Clear";
+//" Remove" = " Remove";
+//
+////sub category vc
+//"Search Sub-Category" = "Search Sub-Category";
+//"Sub-Category" = "Sub-Category";
+//
+////expire vc
+//"Your account has been expired..!" = "Your account has been expired..!";
+//"Pay Now" = "Pay Now";
+//"Couldn't intiate payment right now" = "Couldn't intiate payment right now";
+//"Expired" = "Expired";
+//"Invalid transaction" = "Invalid transaction";
+//
+//
+////provider milestones
+//"Request for -" = "Request for -";
+//"days" = "days";
+//"Milestones" = "Milestones";
+//"Milestone" = "Milestone";
+//"Go to profile  " = "Go to profile  ";
+//"Total Amount" = "Total Amount";
+//"  View Contract" = "  View Contract";
+//"Pending Amount" = "Pending Amount";
+//"Payment Milestone" = "Payment Milestone";
+//"  Status    " = "  Status    ";
+//"Milestone Name" = "Milestone Name";
+//"Enter Amount" = "Enter Amount";
+//"Enter description" = "Enter description";
+//"  Start Date  " = "  Start Date  ";
+//"Pay" = "Pay";
+//"My Review" = "My Review";
+//"Job Done" = "Job Done";
+//
+////Favourties
+//"Favourite Profiles" = "Favourite Profiles";
+//
+////Review VC :
+//"Account verified" = "Account verified";
+//"Account Rejected" = "Account Rejected";
+//
+//
+////Shooting plan:
+//"Please add atleast one resource" = "Please add atleast one resource";
+//"Create plan" = "Create plan";
+//"Please create the shooting plan" = "Please create the shooting plan";
+//"No shooting plan created yet" = "No shooting plan created yet";
+//"Shooting Plan" = "Shooting Plan";
+//"Create New" = "Create New";
+//"   Resources" = "   Resources";
+//"Shooting Date" = "Shooting Date";
+//"Location" = "Location";
+//"Shooting plan successfully created" = "Shooting plan successfully created";
+//"Shooting plan successfully updated" = "Shooting plan successfully updated";
+//
+////create shooting plan
+//"Update shooting plan" = "Update shooting plan";
+//"Create shooting plan" = "Create shooting plan";
+//"Confirm" = "Confirm";
+//"Select resources" = "Select resources";
+//"Pending" = "Pending";
+//
+//
+////category vc
+//"Categories" = "Categories";
+//
+////category profiles
+//"Featured Profiles" = "Featured Profiles";
+//"Send Request" = "Send Request";
+//"Please select atleast one profile to proceed" = "Please select atleast one profile to proceed";
+//
+////search view controller
+//" What are you looking for?" = " What are you looking for?";
+//"Browse Categories" = "Browse Categories";
+//
+////search profiles
+//" What are you looking for?" = " What are you looking for?";
+//"Category" = "Category";
+//
+////notifications:
+//"Notifications cleared successfully" = "Notifications cleared successfully";
+//"Notifications" = "Notifications";
+//"Clear all" = "Clear all";
+//
+////profile
+//"Share App" = "Share App";
+//"Support" = "Support";
+//"Terms of service" = "Terms of service";
+//"Privacy Policy" = "Privacy Policy";
+//"About us" = "About us";
+//"Saved" = "Saved";
+//"Requests" = "Requests";
+//"Saved Contracts" = "Saved Contracts";
+//"Notifications" = "Notifications";
+//"Change password" = "Change password";
+//"Logout" = "Logout";
+//"Notifications" = "Notifications";
+//"Saved Contracts" = "Saved Contracts";
+//" Login  " = " Login  ";
+//"Go to profile  " = "Go to profile  ";
+//
+////change password
+//"Change Password" = "Change Password";
+//"Confirm Password" = "Confirm Password";
+//"New Password" = "New Password";
+//"Old Password" = "Old Password";
+//"Old password cannot be empty" = "Old password cannot be empty";
+//"New password cannot be empty" = "New password cannot be empty";
+//"Confirm password cannot be empty" = "Confirm password cannot be empty";
+//"Password do not match" = "Password do not match";
+//"Password must be not less than 6 characters" = "Password must be not less than 6 characters";
+//"Password changed successfully" = "Password changed successfully";
+//"Change Password" = "Change Password";
+//
+////support
+//"Submit" = "Submit";
+//"Your comment" = "Your comment";
+//"Name" = "Name";
+//"Mobile Number" = "Mobile Number";
+//"Email address" = "Email address";
+//"Your comment" = "Your comment";
+//"Submit" = "Submit";
+//"Name can not be empty" = "Name can not be empty";
+//"Mobile Number can not be empty" = "Mobile Number can not be empty";
+//"Email address can not be empty" = "Email address can not be empty";
+//"Please enter valid email address" = "Please enter valid email address";
+//"Your comment" = "Your comment";
+//"Your comment can not be empty" = "Your comment can not be empty";
+//"Request successfully submitted" = "Request successfully submitted";
+//"Search country code" = "Search country code";
+//"Support" = "Support";
+//
+////view profile
+//"view Attachment" = "view Attachment";
+//"Registration Number" = "Registration Number";
+//"Edit Profile" = "Edit Profile";
+//"Profile" = "Profile";
+//
+////edit profile
+//"Delete Profile Image" = "Delete Profile Image";
+//"Mobile Number" = "Mobile Number";
+//"Full Name" = "Full Name";
+//"Email address" = "Email address";
+//"Save Profile" = "Save Profile";
+//"Profile" = "Profile";
+//"Choose option to upload picture" = "Choose option to upload picture";
+//"Gallery" = "Gallery";
+//"Camera" = "Camera";
+//"Uploading..." = "Uploading...";
+//"Profile updated successfully" = "Profile updated successfully";
+//"Profile Picture could not upload, Please try again later" = "Profile Picture could not upload, Please try again later";
+//"Profile updated successfully" = "Profile updated successfully";
+//
+//
+////about us
+//"About us" = "About us";
+//
+//
+////login
+//"Sign in with Password" = "Sign in with Password";
+//"I accept the T&C and Privacy Policy of Crew" = "I accept the T&C and Privacy Policy of Crew";
+//" the T&C " = " the T&C ";
+//"Privacy Policy" = "Privacy Policy";
+//"Please enter valid mobile number" = "Please enter valid mobile number";
+//"Please enter password" = "Please enter password";
+//"Password must be minimum 6 characters" = "Password must be minimum 6 characters";
+//"Please accept T&C and Privacy policty" = "Please accept T&C and Privacy policty";
+//"Invalid Mobile number or password" = "Invalid Mobile number or password";
+//"Sign in with SMS" = "Sign in with SMS";
+//"Sign in with Password" = "Sign in with Password";
+//"Search country code" = "Search country code";
+//
+////legal vc
+//"Privacy Policy" = "Privacy Policy";
+//"Terms of Service" = "Terms of Service";
+//
+////  otp vc:
+//"Mobile Verification" = "Mobile Verification";
+//"Invalid OTP" = "Invalid OTP";
+//
+////who are you
+//"Who are you?" = "Who are you?";
+//"I am operating media agency" = "I am operating media agency";
+//"I am looking for a media agency" = "I am looking for a media agency";
+//
+////profile setup :
+//"Add Profile Image" = "Add Profile Image";
+//"Mobile Number" = "Mobile Number";
+//"* All fields are mandatory" = "* All fields are mandatory";
+//"Full Name" = "Full Name";
+//"Email address" = "Email address";
+//"Password" = "Password";
+//"Confirm Password" = "Confirm Password";
+//"Commercial Registration Number" = "Commercial Registration Number";
+//"Registration attachment" = "Registration attachment";
+//"You can upload JPEG,PNG and PDF files" = "You can upload JPEG,PNG and PDF files";
+//"Signature here" = "Signature here";
+//"Save Profile" = "Save Profile";
+//"Choose option to upload picture" = "Choose option to upload picture";
+//"Gallery" = "Gallery";
+//"Camera" = "Camera";
+//"Uploading..." = "Uploading...";
+//"Setup Your Profile" = "Setup Your Profile";
+//"Please enter your full name" = "Please enter your full name";
+//"Please enter your email address" = "Please enter your email address";
+//"Please enter valid email address" = "Please enter valid email address";
+//"Please enter your password" = "Please enter your password";
+//"Password should not be less than six characters" = "Password should not be less than six characters";
+//"Password and confirm password does not match" = "Password and confirm password does not match";
+//"Please enter your CRN Number" = "Please enter your CRN Number";
+//"Please attach CRN document" = "Please attach CRN document";
+//"Please update your signature" = "Please update your signature";
+//
+//
+////Agency payment:
+//"Please Make the payment of " = "Please Make the payment of ";
+//"to continue with application" = "to continue with application";
+//"If you face any issue while making the payment kindly contact support at" = "If you face any issue while making the payment kindly contact support at";
+//"or write us at" = "or write us at";
+//"or write us at" = "or write us at";
+//"Pay Now" = "Pay Now";
+//"Registration Payment" = "Registration Payment";
+//
+//
+////payment status :
+//"Success" = "Success";
+//"Your payment has been processed..." = "Your payment has been processed...";
+//"Couldn't intiate payment right now" = "Couldn't intiate payment right now";
+//
+////dates vc
+//"Create Milestone" = "Create Milestone";
+//"Choose Project" = "Choose Project";
+//"  Reserved" = "  Reserved";
+//"Please select a valid date range to proceed" = "Please select a valid date range to proceed";
+//"Select the dates" = "Select the dates";
+//"  Add more dates" = "  Add more dates";
+//"Select Dates" = "Select Dates";
+//"Start Date  "="Start Date  ";
+//"End Date  " = "End Date  ";
+//"Day" = "Day";
+//"Days" = "Days";
+//"Done" = "Done";
+//"Cancel" = "Cancel";
+//"Start Date  " = "Start Date  ";
+//"End Date  " = "End Date  ";
+//"Payments" = "Payments";
+//
+//////requests view controller:
+//"Requests" = "Requests";
+//"Awarded" = "Awarded";
+//"Requests" = "Requests";
+//"Project Name" = "Project Name";
+//"  Dates / Timeline " = "  Dates / Timeline ";
+//"Start  " = "Start  ";
+//"  Project Budget " = "  Project Budget ";
+//
+////request details
+//"Project Name" = "Project Name";
+//"Description" = "Description";
+//"  Dates / Timeline " = "  Dates / Timeline ";
+//
+//"  Project Budget " = "  Project Budget ";
+//"   View Contract" = "   View Contract";
+//"Reject" = "Reject";
+//"Send Proposal" = "Send Proposal";
+//"Request is rejected" = "Request is rejected";
+//
+////create proposal
+//"Description" = "Description";
+//"Registration attachment" = "Registration attachment";
+//"You can upload JPEG, PNG and PDF files" = "You can upload JPEG, PNG and PDF files";
+//"Send Proposal" = "Send Proposal";
+//"Please enter valid description" = "Please enter valid description";
+//"Please attach file to proceed" = "Please attach file to proceed";
+//"Proposal created succesfully" = "Proposal created succesfully";
+//"Choose option to upload attachment" = "Choose option to upload attachment";
+//"Gallery" = "Gallery";
+//"Documents" = "Documents";
+//"Cancel" = "Cancel";
+//"Uploading..." = "Uploading...";
+//
+//
+////projects list
+//"My projects" = "My projects";
+//"Select the project" = "Select the project";
+//"  Create Project" = "  Create Project";
+//" Hire Resources" = " Hire Resources";
+//" Find Agencies" = " Find Agencies";
+//" Notify for Audition" = " Notify for Audition";
+//" Shooting Plan" = " Shooting Plan";
+//"   Resources" = "   Resources";
+//"   Agencies" = "   Agencies";
+//
+//
+////create audition
+//"Done" = "Done";
+//"Cancel" = "Cancel";
+//"Date cannot be empty" = "Date cannot be empty";
+//"Address cannot be empty" = "Address cannot be empty";
+//"Accepted" = "Accepted";
+//"Audition Requests" = "Audition Requests";
+//
+////project details
+//"Project Name" = "Project Name";
+//"Description" = "Description";
+//"  Dates / Timeline " = "  Dates / Timeline ";
+//"Start  " = "Start  ";
+//"Project Budget" = "Project Budget";
+//"Requested to agencies" = "Requested to agencies";
+//"Find Agencies" = "Find Agencies";
+//"You didn't requested any agencies" = "You didn't requested any agencies";
+//"Succesfully awarded" = "Succesfully awarded";
+//
+////project details agency
+//"Project Details" = "Project Details";
+//"  Dates / Timeline " = "  Dates / Timeline ";
+//
+//"  Project Budget " = "  Project Budget ";
+//"  Edit Project" = "  Edit Project";
+//"  Shooting Plan" = "  Shooting Plan";
+//"Resources" = "Resources";
+//"  Audition Request" = "  Audition Request";
+//"Hire Resources" = "Hire Resources";
+//"Notify for audtion" = "Notify for audtion";
+//"Cancel Project" = "Cancel Project";
+//"Complete Project" = "Complete Project";
+//"Project succesfully completed" = "Project succesfully completed";
+//"Project cancelled" = "Project cancelled";
+//
+////proposal vc
+//"Proposal" = "Proposal";
+//"Succesfully awarded" = "Succesfully awarded";
+//"View attachment" = "View attachment";
+//"Description" = "Description";
+//"Award" = "Award";
+//
+////company create contract
+//"Create contract" = "Create contract";
+//" Create New" = " Create New";
+//" From my saved contracts" = " From my saved contracts";
+//"Contract Number" = "Contract Number";
+//"Contract Name" = "Contract Name";
+//"Start Date" = "Start Date";
+//"End Date" = "End Date";
+//"Description" = "Description";
+//"Enter Description" = "Enter Description";
+//"  Add my signature" = "  Add my signature";
+//"Please select valid contract number to proceed" = "Please select valid contract number to proceed";
+//"Please select valid contract name to proceed" = "Please select valid contract name to proceed";
+//"Please select valid start date to proceed" = "Please select valid start date to proceed";
+//"Please select valid end date to proceed" = "Please select valid end date to proceed";
+//"Please select valid location to proceed" = "Please select valid location to proceed";
+//"Contract succesfully created." = "Contract succesfully created.";
+//"Enter Description" = "Enter Description";
+//
+////agencies vc
+//"Send Request" = "Send Request";
+//"Please Select any one agency to proceed" = "Please Select any one agency to proceed";
+//"Agencies" = "Agencies";
+//"Please select valid contract name to proceed" = "Please select valid contract name to proceed";
+//"Please select valid contract number to proceed" = "Please select valid contract number to proceed";
+//"Please select valid start date to proceed" = "Please select valid start date to proceed";
+//"Please select valid end date to proceed" = "Please select valid end date to proceed";
+//"Please select valid location to proceed" = "Please select valid location to proceed";
+//"Selected Dates" = "Selected Dates";
+//"Day" = "Day";
+//"Days" = "Days";
+//"Enter Description" = "Enter Description";
+//" Your request number for further discussion" = " Your request number for further discussion";
+//"My Contracts" = "My Contracts";
+//
+//
+////create project
+//"About Project" = "About Project";
+//"Project Name" = "Project Name";
+//"Description" = "Description";
+//"Project Timeline" = "Project Timeline";
+//
+////create project
+//"Budget" = "Budget";
+//"Location" = "Location";
+//"City" = "City";
+//"Update Project" = "Update Project";
+//"Save Project" = "Save Project";
+//"Create new milestone" = "Create new milestone";
+//"Please create atleast 1 milestone" = "Please create atleast 1 milestone";
+//"Edit" = "Edit";
+//"Milestone Name" = "Milestone Name";
+//"Enter Amount" = "Enter Amount";
+//"Enter description" = "Enter description";
+//"Start Date" = "Start Date";
+//"  Start Date  " = "  Start Date  ";
+//"Enter description" = "Enter description";
+//"Enter Amount" = "Enter Amount";
+//"Milestone Name" = "Milestone Name";
+//"Total invidual milestones amount must be less than total milestone amount" = "Total invidual milestones amount must be less than total milestone amount";
+//"Date can not be empty" = "Date can not be empty";
+//"Description can not be empty" = "Description can not be empty";
+//"Amount can not be empty" = "Amount can not be empty";
+//"Name can not be empty" = "Name can not be empty";
+//"Create Milestone" = "Create Milestone";
+//"Update Milestone" = "Update Milestone";
+//
+//
+////Banner:
+//"Success" = "Success";
+//"Error" = "Error";
+//
+////webservices
+//"Deleting..." = "Deleting...";
+//
+//
+////custom classes
+//"Project Name" = "Project Name";
+//" Ongoing" = " Ongoing";
+//"  Dates / Timeline " = "  Dates / Timeline ";
+//
+//"Start     " = "Start   ";
+//"Stop      " = "Stop    ";
+//"Budget  " = "Budget  ";
+//"Cost  " = "Cost  ";
+//"  Project Budget " = "  Project Budget ";
+//
+////review popup
+//"Submit your feedback" = "Submit your feedback";
+//"Submit review" = "Submit review";
+//"Your comment" = "Your comment";
+//"Please give rating" = "Please give rating";
+//"Please give comment" = "Please give comment";
+"Language" = "العربية";
+"T&C" = " the T&C ";

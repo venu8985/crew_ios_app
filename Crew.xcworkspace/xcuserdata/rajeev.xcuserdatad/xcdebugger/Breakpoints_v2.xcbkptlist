@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FA119FA5-9D0A-4152-BAED-8410290197D7"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41679222-D00E-48FA-BCE7-2ADAE73803B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Crew/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "761"
+            endingLineNumber = "761"
+            landmarkName = "removefavouriteAction(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41679222-D00E-48FA-BCE7-2ADAE73803B8 - d793143b3db86a24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Crew.HomeViewController.removefavouriteAction(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "Crew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeev/Desktop/Crew_Vendor/Crew/Crew/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "761"
+                  endingLineNumber = "761"
+                  offsetFromSymbolStart = "1106">
+               </Location>
+               <Location
+                  uuid = "41679222-D00E-48FA-BCE7-2ADAE73803B8 - ab078c42dedffa81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in Crew.HomeViewController.removefavouriteAction(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "Crew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeev/Desktop/Crew_Vendor/Crew/Crew/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "762"
+                  endingLineNumber = "762"
+                  offsetFromSymbolStart = "86">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
